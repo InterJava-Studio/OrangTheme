@@ -9,6 +9,10 @@
 > This is not a standalone theme, needs [HyDe](https://github.com/prasanthrangan/hyprdots) installed...
 
 
+<div align = center><img src="https://raw.githubusercontent.com/InterJava-Studio/OrangTheme/refs/heads/main/screescreenshots/s1.png"><br><br></div>
+<div align = center><img src="https://raw.githubusercontent.com/InterJava-Studio/OrangTheme/refs/heads/main/screescreenshots/s2.png"><br><br></div>
+<div align = center><img src="https://raw.githubusercontent.com/InterJava-Studio/OrangTheme/refs/heads/main/screescreenshots/s3.png"><br><br></div>
+
 ## Installation
 ```sh
 Hyde theme import "OrangTheme" https://github.com/InterJava-Studio/OrangTheme
