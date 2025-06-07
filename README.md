@@ -20,3 +20,4 @@ Hyde theme import
 and choose OrangTheme
 
 ---
+<sub>or install another theme from [HyDe Gallery](https://github.com/kRHYME7/hyde-gallery)</sub>
