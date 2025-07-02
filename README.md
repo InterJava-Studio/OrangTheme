@@ -15,7 +15,7 @@
 
 ## Installation
 ```sh
-Hyde theme import "OrangTheme" https://github.com/InterJava-Studio/OrangTheme
+hydectl theme import --name "OrangTheme" --url "https://github.com/InterJava-Studio/OrangTheme
 ```
 or 
 ```sh
