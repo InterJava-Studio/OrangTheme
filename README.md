@@ -17,11 +17,6 @@
 ```sh
 hydectl theme import --name "OrangTheme" --url "https://github.com/InterJava-Studio/OrangTheme"
 ```
-or 
-```sh
-Hyde theme import
-```
-and choose OrangTheme
 
 ---
 <sub>or install another theme from [HyDe Gallery](https://github.com/kRHYME7/hyde-gallery)</sub>
