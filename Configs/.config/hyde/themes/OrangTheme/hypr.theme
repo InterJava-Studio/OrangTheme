@@ -6,6 +6,7 @@ $COLOR_SCHEME=prefer-dark
 $CURSOR_THEME=macOS-Black
 $CURSOR_SIZE=26                                
 $FONT=SF Pro Rounded Regular 10.5
+$CODE_THEME=MacOS Modern Dark - Xcode Modern
 
 exec = gsettings set org.gnome.desktop.interface icon-theme '$ICON_THEME'
 exec = gsettings set org.gnome.desktop.interface gtk-theme '$GTK_THEME'
